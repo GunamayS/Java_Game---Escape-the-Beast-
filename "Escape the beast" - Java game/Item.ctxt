@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Class\ Item\ -\ an\ item\ in\ an\ adventure\ game.\n\n\ This\ class\ contains\ all\ the\ characteristics\ of\ each\ item,\ such\ as\ its\ name,\ weight\ etc.\n\ \n\ An\ \ "Item"\ has\ a\ description\ and\ a\ weight.\n\ \n\ @author\ \ Gunamay\ Sachdev\n\ @version\ 2020.11.24\n
+comment1.params=name\ description\ weight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\n\ Create\ a\ new\ item\ with\ the\ given\ description\ and\ weight.\n\ @param\ name\ The\ item's\ name\n\ @param\ description\ The\ item's\ description\n\ @param\ weight\ The\ item's\ weight\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Return\ the\ item's\ name.\n\ @return\ The\ name\n
+comment3.params=
+comment3.target=double\ getWeight()
+comment3.text=\n\ Return\ the\ item's\ weight.\n\ @return\ The\ weight\n
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment4.text=\n\ Return\ a\ description\ of\ the\ item.\n\ @return\ The\ description.\n
+numComments=5
